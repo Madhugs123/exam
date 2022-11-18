@@ -1,0 +1,3 @@
+Hi,
+STUDENT MANAGEMENT SYSTEM which contains 2 modules one is Student and Attendence. I used filter function and list of employes.
+according to the student if it gets filtered.
